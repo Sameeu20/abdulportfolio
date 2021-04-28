@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/abdulportfolio/static/css/main.e74af53b.chunk.css",
-    "main.js": "/abdulportfolio/static/js/main.a17feb18.chunk.js",
-    "main.js.map": "/abdulportfolio/static/js/main.a17feb18.chunk.js.map",
+    "main.js": "/abdulportfolio/static/js/main.8d2a4412.chunk.js",
+    "main.js.map": "/abdulportfolio/static/js/main.8d2a4412.chunk.js.map",
     "runtime-main.js": "/abdulportfolio/static/js/runtime-main.b01e4c42.js",
     "runtime-main.js.map": "/abdulportfolio/static/js/runtime-main.b01e4c42.js.map",
     "static/js/2.93b3d15c.chunk.js": "/abdulportfolio/static/js/2.93b3d15c.chunk.js",
     "static/js/2.93b3d15c.chunk.js.map": "/abdulportfolio/static/js/2.93b3d15c.chunk.js.map",
     "index.html": "/abdulportfolio/index.html",
-    "precache-manifest.582e32e9f2e2a12e9b68a2e3fea7479d.js": "/abdulportfolio/precache-manifest.582e32e9f2e2a12e9b68a2e3fea7479d.js",
+    "precache-manifest.dd3d714f35b010f63f4a1ae52ca0ed2f.js": "/abdulportfolio/precache-manifest.dd3d714f35b010f63f4a1ae52ca0ed2f.js",
     "service-worker.js": "/abdulportfolio/service-worker.js",
     "static/css/main.e74af53b.chunk.css.map": "/abdulportfolio/static/css/main.e74af53b.chunk.css.map",
     "static/media/1.png": "/abdulportfolio/static/media/1.c350d799.png",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.b01e4c42.js",
     "static/js/2.93b3d15c.chunk.js",
     "static/css/main.e74af53b.chunk.css",
-    "static/js/main.a17feb18.chunk.js"
+    "static/js/main.8d2a4412.chunk.js"
   ]
 }
